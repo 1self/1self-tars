@@ -12,5 +12,6 @@
   "hubot-youtube",
   "hubot-newrelic2",
   "hubot-trello",
-  "hubot-clj"
+  "hubot-clj",
+  "hubot-cheer"
 ]

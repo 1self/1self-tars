@@ -6,6 +6,7 @@
   "description": "A bot for 1selff team, a robot",
   "dependencies": {
     "hubot": "^2.11.4",
+    "hubot-cheer": "^0.1.0",
     "hubot-clj": "0.0.5",
     "hubot-diagnostics": "0.0.1",
     "hubot-google-images": "^0.1.4",
