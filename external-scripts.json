@@ -11,5 +11,6 @@
   "hubot-shipit",
   "hubot-youtube",
   "hubot-newrelic2",
-  "hubot-trello"
+  "hubot-trello",
+  "hubot-clj"
 ]
