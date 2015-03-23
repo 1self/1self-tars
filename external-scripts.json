@@ -14,5 +14,6 @@
   "hubot-trello",
   "hubot-clj",
   "hubot-cheer",
-  "hubot-catgif"
+  "hubot-catgif",
+  "hubot-gif-locker"
 ]
