@@ -13,5 +13,6 @@
   "hubot-newrelic2",
   "hubot-trello",
   "hubot-clj",
-  "hubot-cheer"
+  "hubot-cheer",
+  "hubot-catgif"
 ]
