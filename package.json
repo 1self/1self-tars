@@ -18,6 +18,7 @@
     "hubot-highfive": "^1.0.4",
     "hubot-javascript": "0.0.7",
     "hubot-maps": "0.0.1",
+    "hubot-motivate": "^3.0.0",
     "hubot-newrelic2": "^0.2.0",
     "hubot-pugme": "^0.1.0",
     "hubot-react": "^4.1.1",
@@ -27,8 +28,8 @@
     "hubot-shipit": "^0.1.2",
     "hubot-slack": "^3.3.0",
     "hubot-trello": "^0.1.1",
-    "hubot-youtube": "^0.1.2",
-    "hubot-victory": ">= 0.0.0"
+    "hubot-victory": ">= 0.0.0",
+    "hubot-youtube": "^0.1.2"
   },
   "engines": {
     "node": "0.10.x"
