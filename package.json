@@ -27,7 +27,8 @@
     "hubot-shipit": "^0.1.2",
     "hubot-slack": "^3.3.0",
     "hubot-trello": "^0.1.1",
-    "hubot-youtube": "^0.1.2"
+    "hubot-youtube": "^0.1.2",
+    "hubot-victory": ">= 0.0.0"
   },
   "engines": {
     "node": "0.10.x"
