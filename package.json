@@ -19,6 +19,7 @@
     "hubot-maps": "0.0.1",
     "hubot-newrelic2": "^0.2.0",
     "hubot-pugme": "^0.1.0",
+    "hubot-react": "^4.1.1",
     "hubot-redis-brain": "0.0.2",
     "hubot-rules": "^0.1.0",
     "hubot-scripts": "^2.5.16",

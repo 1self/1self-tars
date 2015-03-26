@@ -16,5 +16,6 @@
   "hubot-cheer",
   "hubot-catgif",
   "hubot-gif-locker",
-  "hubot-highfive"
+  "hubot-highfive",
+  "hubot-react"
 ]
