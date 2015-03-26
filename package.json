@@ -16,6 +16,7 @@
     "hubot-help": "^0.1.1",
     "hubot-heroku-keepalive": "0.0.4",
     "hubot-highfive": "^1.0.4",
+    "hubot-javascript": "0.0.7",
     "hubot-maps": "0.0.1",
     "hubot-newrelic2": "^0.2.0",
     "hubot-pugme": "^0.1.0",
