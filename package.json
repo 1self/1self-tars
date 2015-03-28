@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "author": "Anil Wadghule <anildigital@gmail.com>",
-  "description": "A bot for 1selff team, a robot",
+  "description": "A bot for 1self team, a robot",
   "dependencies": {
     "hubot": "^2.11.4",
     "hubot-catgif": "^0.1.1",
